@@ -1,0 +1,7 @@
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:1.0,名称是分享报告
+ERROR    YongHongApi:test_two.py:53 当前接口运行有误，其编号是2.0
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:3.0,名称是替换数据集
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:4.0,名称是新增用户
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:5.0,名称是删除用户
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:6.0,名称是新增admin
+INFO     YongHongApi:test_two.py:51 正在测试的接口编号是:7.0,名称是删除admin
